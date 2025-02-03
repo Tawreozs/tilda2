@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+23:45:08	26755/26755	---M--	200	added ('OK')	text/html	etag:%226883-62d4299779de7%22	https://weddingvitalanastasia.tilda.ws/wedding	C:/Users/User/Downloads/tilda2/tila2/weddingvitalanastasia.tilda.ws/wedding.html	(from )
+23:45:08	345/345	---M--	200	added ('OK')	text/plain	etag:%22159-62d4278f4eda8%22	https://weddingvitalanastasia.tilda.ws/robots.txt		(from )
+23:45:09	37593/-1	---M--	200	added ('OK')	image/jpeg	date:Mon,%2003%20Feb%202025%2020:45:11%20GMT	https://static.tildacdn.info/tild3961-3837-4431-a135-313763343736/-/resize/504x/front_close_up_view_.jpg	C:/Users/User/Downloads/tilda2/tila2/static.tildacdn.info/tild3961-3837-4431-a135-313763343736/-/resize/504x/front_close_up_view_.jpg	(from https://weddingvitalanastasia.tilda.ws/wedding)
